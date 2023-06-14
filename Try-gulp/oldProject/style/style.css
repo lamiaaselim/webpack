@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+.signature {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+.logo {
+    max-width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.name {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.title {
+    color: #888;
+    margin-bottom: 5px;
+}
+
+.contact {
+    color: #888;
+}
